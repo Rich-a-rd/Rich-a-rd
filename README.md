@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Richard
-- 👀 I’m interested in tabletennis and programming
+- 👀 I’m interested in videogames and programming
 - 🌱 I’m currently learning java / spigot API
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Discord: Richard_#4843
